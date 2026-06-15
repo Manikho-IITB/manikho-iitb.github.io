@@ -1,8 +1,8 @@
 # vincentsassard.github.io
 
-Personal academic website of **Vincent Sassard**, Ph.D. Candidate in seismology at Purdue University.
+Personal academic website of **A Manikho Rajina**, Ph.D. Candidate in seismology at IIT Bombay.
 
-🌐 **Live site:** [vincentsassard.github.io](https://vincentsassard.github.io)
+🌐 **Live site:** [manikho.github.io](https://manikho-iitb.github.io)
 
 ---
 
@@ -38,5 +38,5 @@ Edit any `.html` file directly on GitHub and commit — the site redeploys autom
 
 ## Contact
 
-📧 vsassard@purdue.edu  
-🔗 [vincentsassard.github.io](https://vincentsassard.github.io)
+📧 23d0457@iitb.ac.in 
+🔗 [manikho.github.io](https://manikho-iitb.github.io)
