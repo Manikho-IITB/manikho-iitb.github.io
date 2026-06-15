@@ -1,4 +1,4 @@
-# vincentsassard.github.io
+# manikho.github.io
 
 Personal academic website of **A Manikho Rajina**, Ph.D. Candidate in seismology at IIT Bombay.
 
